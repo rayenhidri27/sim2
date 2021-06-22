@@ -1,0 +1,10 @@
+body > p {
+	margin: 0; 
+}
+body > p:first-child {
+	margin-top: 0; 
+}
+data.foot-note-reference {
+	color: blue;
+	text-decoration: underline;
+}
